@@ -1,6 +1,9 @@
 # githubpractice
 trying to get some practice
 
-##retarded list
+## retarded list
+- dumb
+- smart 
+- dart
 
 
